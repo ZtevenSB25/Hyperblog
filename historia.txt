@@ -5,6 +5,11 @@ nacido en la ciudad de ibague
 experimento 1
 
 experimento 2
+<<<<<<< HEAD
+=======
+
+master 2
+>>>>>>> 9230a1a...  master 2
 
 master 1
  
